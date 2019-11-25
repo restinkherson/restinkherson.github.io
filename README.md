@@ -2,4 +2,4 @@
 Інформаційний сайт баз відпочинку Херсонщини 
 
 
-[Сайт](restinkherson.github.io/project/)
+[Сайт](restinkherson.github.io/site/)
